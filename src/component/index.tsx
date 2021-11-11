@@ -13,7 +13,7 @@ const Index = () => {
       setcount(value);
     }
   };
-
+//
   return (
     <div>
       <h1>Counter: {count} </h1>
